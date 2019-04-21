@@ -21,7 +21,7 @@ T.post(
 
 // var retweet = function() {
 //   var params = {
-//     q: '#nodejs, #Nodejs',
+//     q: '#babygirl, #babyboy', #baby
 //     result_type: 'recent',
 //     lang: 'en'
 //   }
